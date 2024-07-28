@@ -1,0 +1,10 @@
+/* src/pages/index.module.css */
+.container {
+  padding: 16px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

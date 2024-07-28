@@ -1,0 +1,24 @@
+/* src/components/Soundscape.module.css */
+.soundscape {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 16px;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+}
+
+.slider {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.label {
+  margin-top: 8px;
+  font-size: 16px;
+  text-align: center;
+}
+
